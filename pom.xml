@@ -31,7 +31,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <junit.version>4.9</junit.version>
-        <netty.version>4.0.21.Final</netty.version>
+        <netty.version>4.1.42</netty.version>
         <jersey.version>2.17</jersey.version>
         <slf4j.version>1.7.7</slf4j.version>
         <logback.version>1.1.3</logback.version>
